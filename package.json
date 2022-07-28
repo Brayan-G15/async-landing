@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d async-landing"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Brayan-g15/async-landing.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Brayan gonzalez <b.sleider15@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Brayan-g15/async-landing/issues"
   },
