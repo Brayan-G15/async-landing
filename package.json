@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Brayan-g15/async-landing/issues"
   },
-  "homepage": "https://github.com/Brayan-g15/async-landing#readme"
+  "homepage": "https://github.com/Brayan-g15/async-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
